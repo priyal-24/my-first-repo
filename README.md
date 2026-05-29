@@ -9,7 +9,7 @@ This project demonstrates collections in Python.
 - Dictionary
 
 ## Screenshot
-![Project Screenshot](images/sample.png)
+![Project Screenshot](sample.png)
 
 ## Author
 Priyal Patel
